@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Delicious recipes</string>
+
+    <string name="language_used">Language:</string>
+    <string name="english">English</string>
+    <string name="version">Version:</string>
+    <string name="version_value">1.0.0</string>
+
+    <string name="assets_path_flag">flags</string>
+    <string name="no_connection">No internet connection!</string>
+    <string name="instruction">Instruction</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="additionally">Additionally</string>
+    <string name="source">Source</string>
+    <string name="video">Video</string>
+    <string name="try_again">Try again</string>
+    <string name="try_again_text">Check your connection and try again.</string>
+</resources>
